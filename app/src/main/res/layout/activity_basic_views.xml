@@ -28,7 +28,8 @@
         android:layout_margin="20dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button" />
+        android:text="Button"
+        android:onClick="buttonClick" />
 
     <ImageView
         android:layout_margin="20dp"
